@@ -1,3 +1,3 @@
 # moodle-backup
-Backup of school stuff from Moodle
-Stand 24.03.2020
+Ohne Gewähr auf Vollständigkeit...
+Stand 25.07.2020
